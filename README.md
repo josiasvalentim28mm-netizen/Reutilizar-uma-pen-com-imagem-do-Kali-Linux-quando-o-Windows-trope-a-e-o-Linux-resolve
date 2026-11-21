@@ -1,0 +1,2 @@
+# Reutilizar-uma-pen-com-imagem-do-Kali-Linux-quando-o-Windows-trope-a-e-o-Linux-resolve
+Tinha o **Kali Linux** gravado numa pen (imagem de arranque). Mais tarde quis **reutilizar a pen** e repor nela os meus dados antigos. O problema: depois de levar com a imagem do Kali, a pen ficou com partições Linux, e o **Windows já não a reconhecia** como uma pen normal — só a mostrava como "Linux" e não deixava formatá-la pela via habitual.
